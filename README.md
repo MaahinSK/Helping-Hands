@@ -1,4 +1,6 @@
-📖 About The Project
+📖 About The Project :
+
+
 Helping Hands is a community-driven event management platform that connects volunteers with local social service opportunities. Our mission is to make it easy for people to create, discover, and participate in meaningful community events that make a real difference.
 
 🌟 Key Features
