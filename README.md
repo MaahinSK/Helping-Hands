@@ -1,16 +1,74 @@
-# React + Vite
+📖 About The Project
+Helping Hands is a community-driven event management platform that connects volunteers with local social service opportunities. Our mission is to make it easy for people to create, discover, and participate in meaningful community events that make a real difference.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Key Features
+🎯 Event Discovery & Creation
 
-Currently, two official plugins are available:
+Browse upcoming community events with advanced filtering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create and manage your own events with detailed information
 
-## React Compiler
+Real-time event updates and participant tracking
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔐 Secure Authentication
 
-## Expanding the ESLint configuration
+Firebase-powered authentication with email/password and Google login
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Protected routes for authenticated users
+
+Secure user data synchronization with MongoDB
+
+🎨 Modern User Experience
+
+Beautiful, responsive design that works on all devices
+
+Dark/Light theme toggle for comfortable viewing
+
+Smooth animations and intuitive navigation
+
+🤝 Community Engagement
+
+Join events with a single click
+
+Track your participation history
+
+Connect with local volunteers and organizers
+
+📱 Full-Stack Architecture
+
+React.js frontend with modern hooks and context
+
+Express.js backend with RESTful API
+
+MongoDB Atlas for reliable data storage
+
+Deployed on Vercel for optimal performance
+
+🛠️ Technology Stack
+Frontend
+React 18 - Modern UI library with hooks
+
+React Router - Client-side routing
+
+Tailwind CSS - Utility-first CSS framework
+
+Framer Motion - Smooth animations
+
+React Icons - Beautiful icon library
+
+React Toastify - User notifications
+
+Firebase Auth - Authentication service
+
+Backend
+Node.js - Runtime environment
+
+Express.js - Web application framework
+
+MongoDB Atlas - Cloud database
+
+Mongoose - MongoDB object modeling
+
+CORS - Cross-origin resource sharing
+
+Helmet - Security middleware
